@@ -1,6 +1,6 @@
 'use strict';
 
-var Censor = require('../lib/Censor.js');
+var censor = require('../lib/censor.js');
 
 /*
   ======== A Handy Little Nodeunit Reference ========
@@ -30,7 +30,7 @@ exports['awesome'] = {
   'no args': function(test) {
     test.expect(1);
     // tests here
-    test.equal(Censor.awesome(), 'awesome', 'should be awesome.');
+    test.equal(censor.awesome(), 'awesome', 'should be awesome.');
     test.done();
   },
 };
