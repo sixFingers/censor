@@ -3,12 +3,7 @@
 Meteor testing
 
 ## Getting Started
-Install the module with: `npm install Censor`
-
-```javascript
-var Censor = require('Censor');
-Censor.awesome(); // "awesome"
-```
+Install the module with: `npm install censor`
 
 ## Documentation
 _(Coming soon)_
