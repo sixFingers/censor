@@ -1,7 +1,7 @@
 {
   "name": "censor",
-  "description": "Meteor testing",
-  "version": "0.1.1",
+  "description": "And end to end testing suite for Meteor.",
+  "version": "0.1.2",
   "homepage": "https://github.com/sixFingers/censor",
   "author": {
     "name": "Ignazio Setti",
